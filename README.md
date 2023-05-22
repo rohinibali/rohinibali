@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohinibali
 - 👀 I’m interested in web-development and AI.
-- 🌱 I’m currently learning about Dialogflow.
+- 🌱 I’m currently learning about APIGEE.
 - 📫 You can get in touch with me through email- rohini.bali@quantiphi.com or my linkedIn-rohinibali/0703
 
 <!---
